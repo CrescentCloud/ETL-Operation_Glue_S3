@@ -1,6 +1,6 @@
 # ETL-Operation_Glue_S3_Athena_AWS QuickSight
 ### Overview:
-Perform an ETL operation on CSV Data residing on S3 Bucket, run crawler and create a glue catalog for querying using Athena and finally create visualization using Quicksight  
+Perform an ETL operation on CSV Data using AWS Glue residing on S3 Bucket, run crawler and create a glue catalog for querying using Athena and finally create visualization using Quicksight  
 
 ![glue drawioc](https://user-images.githubusercontent.com/53235392/228801786-5850a30a-dcd5-4fff-a242-c5ef8815310f.png)
 
